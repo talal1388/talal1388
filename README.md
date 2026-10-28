@@ -1,4 +1,4 @@
-## Hi there 👋
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=talal1388&langs_count=4&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api/top-langs?username=talal1388&langs_count=4&theme=codeSTACKr)## Hi there 👋
 
 <!--
 **talal1388/talal1388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
